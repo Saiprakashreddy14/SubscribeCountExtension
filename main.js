@@ -1,5 +1,5 @@
-const myKey = "AIzaSyAgO2VDbltlkZ0rTv-mJKS6kWwRsBNITuw";
-const myId = "UCV8Jh-UCIOErQ_M4K0GPqWQ";
+const myKey = "Your Key";
+const myId = "Your ID";  // fill these
 
 const subcount = document.getElementById('SubCount')
 
